@@ -1,0 +1,85 @@
+---
+title: "H1-Draft 1"
+author: "HG"
+date: "16/8/2021"
+output: pdf_document
+---
+
+
+```{r include = FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(knitr) # To show formatted tables (kable).
+```
+
+\begin{center}
+
+\vspace{14mm}  
+  
+\LARGE 
+Universidad de Monterrey
+  
+\vspace{3mm}  
+  
+\Large Econometría de Mercados Financieros
+  
+\vspace{30mm}  
+  
+\huge Homework 1
+  
+\vspace{30mm}   
+  
+\Large Dr. Martín Carlos Lozano Banda  
+  
+
+\end{center}
+
+\vspace{25mm}  
+  
+\Large   
+ Héctor Misael González Valerio  
+  Sergio Octavio Castro Cobos  
+  Mariana Ocañas Zapata  
+  Samantha Valdez Güereca 
+  
+\vspace{0.08mm}
+
+\Large
+  Paulina Cárdenas Rodríguez
+  
+\vfill
+
+\begin{center}
+San Pedro Garza García, N.L. August 30th, 2021
+\end{center}
+
+\newpage
+
+
+# Introduction
+
+```{r}
+# Load libraries
+library(h2o)
+library(timetk)
+library(tidyquant)
+library(dplyr)
+library(ggplot2)
+library(tibble)
+library(kableExtra)
+library(knitr)
+library(bit64)
+library(sweep)
+library(forecast)
+```
+
+# H2O Machine Learning
+
+# Linear Regression
+
+# Results
+
+# Conclusions
+
+# References
+
+# Honor Code
