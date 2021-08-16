@@ -72,9 +72,11 @@ library(sweep)
 library(forecast)
 ```
 
-# H2O Machine Learning
+# Forecasting techniques
 
-# Linear Regression
+## H2O Machine Learning
+## Linear Regression
+## ARIMA
 
 # Results
 
