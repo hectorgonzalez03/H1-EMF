@@ -84,6 +84,9 @@ library(forecast)
 
 # References
 
+
+https://fred.stlouisfed.org/series/IPG3361T3N
+
 # Honor Code
 
 We hereby declare that we have done this assignment with academic integrity
